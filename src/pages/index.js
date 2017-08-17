@@ -4,12 +4,12 @@ import Link from 'next/link';
 
 function IndexPage() {
   return (
-    <div>
+    <div className="landing">
       <Head>
         <meta charSet="UTF-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <meta httpEquiv="X-UA-Compatible" content="ie=edge"/>
-        <link rel="stylesheet" href="/static/landing.css"/>
+        <link rel="stylesheet" href="../static/css/landing.css"/>
         <title>Micah Monfrini</title>
       </Head>
       <h1 className="header">
