@@ -42,14 +42,18 @@
   margin-right: 10px;
 }
 
+nav {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
 .navButton {
   text-decoration: none;
   border: none;
   color: #ffffff;
   cursor: pointer;
   display: inline-block;
-  font-size: 1em;
-  font-size: 22px;
+  font-size: 1.3em;
   line-height: 1em;
   margin: 15px 40px;
   outline: none;
@@ -74,16 +78,16 @@
 
 .navButton:before {
   border-color: #cc0000;
-  border-right-width: 2px;
-  border-top-width: 2px;
+  border-right-width: 3px;
+  border-top-width: 3px;
   right: -5px;
   top: -5px;
 }
 
 .navButton:after {
-  border-bottom-width: 2px;
+  border-bottom-width: 3px;
   border-color: #cc0000;
-  border-left-width: 2px;
+  border-left-width: 3px;
   bottom: -5px;
   left: -5px;
 }
