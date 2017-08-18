@@ -18,17 +18,19 @@ function IndexPage() {
         Micah Monfrini
       </h1>
       <p className="headerTitles">
-        UI/UX Developer --- Front-End Developer
+        UI/UX Designer <span className ="divider">//</span> Front-End Developer
       </p>
-      <Link href="/about" className="navButton">
-        About
-      </Link>
-      <Link href="/projects" className="navButton">
-        Projects
-      </Link>
-      <Link href="/contact" className="navButton">
-        Contact
-      </Link>
+      <nav>
+        <Link href="/about">
+          <a className="navButton">About</a>
+        </Link>
+        <Link href="/projects">
+          <a className="navButton">Projects</a>
+        </Link>
+        <Link href="/contact">
+          <a className="navButton">Contact</a>
+        </Link>
+      </nav>
       <div className="socialNav">
         icons go here
       </div>
