@@ -10,6 +10,7 @@ function IndexPage() {
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <meta httpEquiv="X-UA-Compatible" content="ie=edge"/>
         <link rel="stylesheet" href="../static/css/landing.css"/>
+        <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" />
         <title>Micah Monfrini</title>
       </Head>
       <h1 className="header">

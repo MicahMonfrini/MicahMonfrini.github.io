@@ -1,6 +1,8 @@
 * {
   margin: 0;
   padding: 0;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
 }
 
 .landing {
@@ -13,5 +15,8 @@
   background-size: cover;
   background-position: center;
   height: 100vh;
+}
 
+.header {
+  
 }
