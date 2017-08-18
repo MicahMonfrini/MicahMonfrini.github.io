@@ -10,13 +10,14 @@ function IndexPage() {
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <meta httpEquiv="X-UA-Compatible" content="ie=edge"/>
         <link rel="stylesheet" href="../static/css/landing.css"/>
-        <link href="https://fonts.googleapis.com/css?family=Roboto:100" rel="stylesheet" />
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100"/>
+        <link rel="stylesheet" href="../static/css/font-awesome/css/font-awesome.min.css"/>
         <title>Micah Monfrini</title>
       </Head>
       <h1 className="header">
         Micah Monfrini
       </h1>
-      <p className="headerText">
+      <p className="headerTitles">
         UI/UX Developer --- Front-End Developer
       </p>
       <Link href="/about" className="navButton">
