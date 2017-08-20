@@ -35,22 +35,30 @@ function IndexPage() {
         <a
           href="https://twitter.com/zambonichaos"
           className="fa fa-2x fa-twitter icon"
-          aria-hidden="true">
+          aria-hidden="true"
+          target="_blank"
+          rel="noopener noreferrer">
         </a>
         <a
           href="https://www.linkedin.com/in/mmonfrini/"
           className="fa fa-2x fa-linkedin icon"
-          aria-hidden="true">
+          aria-hidden="true"
+          target="_blank"
+          rel="noopener noreferrer">
         </a>
         <a
           href="https://github.com/MicahMonfrini"
           className="fa fa-2x fa-github icon"
-          aria-hidden="true">
+          aria-hidden="true"
+          target="_blank"
+          rel="noopener noreferrer">
         </a>
         <a
-          href="https://medium.com/@zambonichaos" 
+          href="https://medium.com/@zambonichaos"
           className="fa fa-2x fa-medium icon"
-          aria-hidden="true">
+          aria-hidden="true"
+          target="_blank"
+          rel="noopener noreferrer">
         </a>
       </div>
     </div>
