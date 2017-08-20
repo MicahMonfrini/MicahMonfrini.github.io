@@ -31,8 +31,10 @@ function IndexPage() {
           <a className="navButton">Contact</a>
         </Link>
       </nav>
-      <div className="socialNav">
-        icons go here
+      <div>
+        <a href="#" className="fa fa-3x fa-twitter-square icon" aria-hidden="true"></a>
+        <a href="#" className="fa fa-3x fa-linkedin-square icon" aria-hidden="true"></a>
+        <a href="#" className="fa fa-3x fa-github-square icon" aria-hidden="true"></a>
       </div>
     </div>
   );

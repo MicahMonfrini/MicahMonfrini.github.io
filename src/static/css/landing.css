@@ -99,3 +99,9 @@ nav {
   height: 100%;
   width: 100%;
 }
+
+.icon {
+    padding: 0px 30px;
+    width: 50px;
+    text-decoration: none;
+}
