@@ -76,7 +76,7 @@ nav {
 }
 
 .navButton:before {
-  border-color: #cc0000;
+  border-color: #af0101;
   border-right-width: 3px;
   border-top-width: 3px;
   right: -5px;
@@ -85,7 +85,7 @@ nav {
 
 .navButton:after {
   border-bottom-width: 3px;
-  border-color: #cc0000;
+  border-color: #af0101;
   border-left-width: 3px;
   bottom: -5px;
   left: -5px;
