@@ -32,10 +32,26 @@ function IndexPage() {
         </Link>
       </nav>
       <div className="socialNav">
-        <a href="#" className="fa fa-2x fa-twitter icon" aria-hidden="true"></a>
-        <a href="#" className="fa fa-2x fa-linkedin icon" aria-hidden="true"></a>
-        <a href="#" className="fa fa-2x fa-github icon" aria-hidden="true"></a>
-        <a href="#" className="fa fa-2x fa-medium icon" aria-hidden="true"></a>
+        <a
+          href="https://twitter.com/zambonichaos"
+          className="fa fa-2x fa-twitter icon"
+          aria-hidden="true">
+        </a>
+        <a
+          href="https://www.linkedin.com/in/mmonfrini/"
+          className="fa fa-2x fa-linkedin icon"
+          aria-hidden="true">
+        </a>
+        <a
+          href="https://github.com/MicahMonfrini"
+          className="fa fa-2x fa-github icon"
+          aria-hidden="true">
+        </a>
+        <a
+          href="https://medium.com/@zambonichaos" 
+          className="fa fa-2x fa-medium icon"
+          aria-hidden="true">
+        </a>
       </div>
     </div>
   );
