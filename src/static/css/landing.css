@@ -5,6 +5,8 @@
   font-family: 'Roboto', sans-serif;
 }
 
+/* background image */
+
 .landing {
   text-align: center;
   display: flex;
@@ -21,6 +23,8 @@
   background-position: center;
   height: 100vh;
 }
+
+/* header & titles */
 
 .header {
   text-transform: uppercase;
@@ -42,6 +46,8 @@
   margin-right: 10px;
 }
 
+/* navbar */
+
 nav {
   margin: 50px 0px;
 }
@@ -61,6 +67,8 @@ nav {
   text-transform: uppercase;
   font-weight: 100;
 }
+
+/* animation for nav button border */
 
 .navButton:before,
 .navButton:after {
@@ -98,6 +106,8 @@ nav {
   height: 100%;
   width: 100%;
 }
+
+/* fa icons */
 
 .socialNav {
   padding-right: 20px;
