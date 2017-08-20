@@ -32,9 +32,9 @@ function IndexPage() {
         </Link>
       </nav>
       <div>
-        <a href="#" className="fa fa-3x fa-twitter-square icon" aria-hidden="true"></a>
-        <a href="#" className="fa fa-3x fa-linkedin-square icon" aria-hidden="true"></a>
-        <a href="#" className="fa fa-3x fa-github-square icon" aria-hidden="true"></a>
+        <a href="#" className="fa fa-2x fa-twitter icon" aria-hidden="true"></a>
+        <a href="#" className="fa fa-2x fa-linkedin icon" aria-hidden="true"></a>
+        <a href="#" className="fa fa-2x fa-github icon" aria-hidden="true"></a>
       </div>
     </div>
   );
