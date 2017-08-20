@@ -31,10 +31,11 @@ function IndexPage() {
           <a className="navButton">Contact</a>
         </Link>
       </nav>
-      <div>
+      <div className="socialNav">
         <a href="#" className="fa fa-2x fa-twitter icon" aria-hidden="true"></a>
         <a href="#" className="fa fa-2x fa-linkedin icon" aria-hidden="true"></a>
         <a href="#" className="fa fa-2x fa-github icon" aria-hidden="true"></a>
+        <a href="#" className="fa fa-2x fa-medium icon" aria-hidden="true"></a>
       </div>
     </div>
   );

@@ -43,8 +43,7 @@
 }
 
 nav {
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin: 50px 0px;
 }
 
 .navButton {
@@ -100,8 +99,15 @@ nav {
   width: 100%;
 }
 
+.socialNav {
+  padding-right: 20px;
+}
+
 .icon {
-    padding: 0px 30px;
-    width: 30px;
+    margin: 0px 30px;
     text-decoration: none;
+}
+
+.fa:hover {
+    opacity: 0.5;
 }
