@@ -14,6 +14,7 @@ function AboutPage() {
         <link rel="stylesheet" href="../static/css/font-awesome/css/font-awesome.min.css"/>
         <title>About</title>
       </Head>
+      <h1>About</h1>
     </div>
   );
 }

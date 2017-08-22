@@ -14,6 +14,7 @@ function ProjectsPage() {
         <link rel="stylesheet" href="../static/css/font-awesome/css/font-awesome.min.css"/>
         <title>Projects</title>
       </Head>
+      <h1>Projects</h1>
     </div>
   );
 }

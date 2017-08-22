@@ -14,6 +14,7 @@ function ContactPage() {
         <link rel="stylesheet" href="../static/css/font-awesome/css/font-awesome.min.css"/>
         <title>Contact</title>
       </Head>
+      <h1>Contact</h1>
     </div>
   );
 }
