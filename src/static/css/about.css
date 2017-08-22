@@ -8,4 +8,7 @@
 
 .testText {
   width: 500px;
+  line-height: 1.7em;
+  letter-spacing: 1px;
+  font-size: 1.1em;
 }
