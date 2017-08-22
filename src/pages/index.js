@@ -12,7 +12,7 @@ function IndexPage() {
         <link rel="stylesheet" href="../static/css/landing.css"/>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100"/>
         <link rel="stylesheet" href="../static/css/font-awesome/css/font-awesome.min.css"/>
-        <title>Micah Monfrini</title>
+        <title>Micah Monfrini // Web Developer</title>
       </Head>
       <h1 className="header">
         Micah Monfrini
