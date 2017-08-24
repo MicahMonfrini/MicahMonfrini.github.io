@@ -21,18 +21,17 @@ function AboutPage() {
         </div>
         <div className="bioText">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Aliquid reiciendis magni ipsa, est vitae iure laboriosam commodi eius
-            suscipit sequi quod maiores dicta, ex, in quia nesciunt animi
-            dolores voluptas.
+            Cat ipsum dolor sit amet. Sit in window and stare oooh, a bird, yum mewl for food at 4am scratch
+            me there, elevator butt milk the cow and licks paws hate dog.
           </p>
+          <br />
           <p>
-            Lorem ipsum dolor sit amet,
-            consectetur adipisicing elit. Fugit tempore unde voluptas suscipit dicta
-            deserunt temporibus culpa molestias nesciunt nemo veritatis iure dolores
-            labore assumenda quas reiciendis, sit consectetur porro tenetur commodi
-            iusto perferendis quaerat libero. Quis veritatis ex aspernatur aperiam
-            reprehenderit vero cum, neque distinctio beatae, ipsum tempore quibusdam?
+            Stand in front of the computer screen chase
+            imaginary bugs. I just saw other cats inside the house and nobody ask me
+            before using my litter box play riveting piece on synthesizer keyboard
+            but scratch at fleas, meow until belly rubs, hide behind curtain when
+            vacuum cleaner is on scratch strangers and poo on owners food, sleep on keyboard.
+            Groom yourself 4 hours - checked, have your beauty sleep 18 hours
           </p>
         </div>
       </div>
