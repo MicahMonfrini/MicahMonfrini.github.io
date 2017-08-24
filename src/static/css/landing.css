@@ -70,7 +70,7 @@ nav {
 
 /* animation for nav button border */
 
-.navButton:before
+.navButton:before,
 .navButton:after {
   border-color: transparent;
   -webkit-transition: all 0.25s;
