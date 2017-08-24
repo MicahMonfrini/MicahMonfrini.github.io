@@ -1,3 +1,12 @@
 .navbar {
-  color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navButton {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 100;
+  margin: 20px;
 }
