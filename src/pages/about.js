@@ -21,7 +21,13 @@ function AboutPage() {
         suscipit sequi quod maiores dicta, ex, in quia nesciunt animi
         dolores voluptas.
       </p>
-      <p className="testText" style={{marginTop: 50}}>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit tempore unde voluptas suscipit dicta deserunt temporibus culpa molestias nesciunt nemo veritatis iure dolores labore assumenda quas reiciendis, sit consectetur porro tenetur commodi iusto perferendis quaerat libero. Quis veritatis ex aspernatur aperiam reprehenderit vero cum, neque distinctio beatae, ipsum tempore quibusdam?</p>
+      <p className="testText" style={{marginTop: 50}}>Lorem ipsum dolor sit amet,
+        consectetur adipisicing elit. Fugit tempore unde voluptas suscipit dicta
+        deserunt temporibus culpa molestias nesciunt nemo veritatis iure dolores
+        labore assumenda quas reiciendis, sit consectetur porro tenetur commodi
+        iusto perferendis quaerat libero. Quis veritatis ex aspernatur aperiam
+        reprehenderit vero cum, neque distinctio beatae, ipsum tempore quibusdam?
+      </p>
     </div>
   );
 }
