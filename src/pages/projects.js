@@ -1,6 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
-import Link from 'next/link';
+import Header from '../components/Header/Header.js';
 
 function ProjectsPage() {
   return (
@@ -14,7 +14,7 @@ function ProjectsPage() {
         <link rel="stylesheet" href="../static/css/font-awesome/css/font-awesome.min.css"/>
         <title>Projects</title>
       </Head>
-      <h1>Projects</h1>
+      <Header />
     </div>
   );
 }
