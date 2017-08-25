@@ -1,6 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
-import Link from 'next/link';
+import Header from '../components/Header/Header.js';
 
 function ContactPage() {
   return (
@@ -14,7 +14,7 @@ function ContactPage() {
         <link rel="stylesheet" href="../static/css/font-awesome/css/font-awesome.min.css"/>
         <title>Contact</title>
       </Head>
-      <h1>Contact</h1>
+      <Header />
     </div>
   );
 }
