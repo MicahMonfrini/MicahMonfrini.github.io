@@ -1,6 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
-import Header from '../components/Header/Header.js';
+import Header from '../components/Header';
 
 function AboutPage() {
   return (
