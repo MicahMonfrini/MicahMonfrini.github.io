@@ -1,6 +1,7 @@
 import React from 'react';
 import Head from 'next/head';
 import Header from '../components/Header';
+import Footer from '../components/Footer';
 
 function AboutPage() {
   return (
@@ -35,6 +36,7 @@ function AboutPage() {
           </p>
         </div>
       </div>
+      <Footer />
     </div>
   );
 }
