@@ -15,16 +15,16 @@ function Header() {
       </Head>
       <nav className="navbar">
         <ActiveLink href="/">
-          <a className="navButton">Home</a>
+          Home
         </ActiveLink>
         <ActiveLink href="/about">
-          <a className="navButton">About</a>
+          About
         </ActiveLink>
         <ActiveLink href="/projects">
-          <a className="navButton">Projects</a>
+          Projects
         </ActiveLink>
         <ActiveLink href="/contact">
-          <a className="navButton">Contact</a>
+          Contact
         </ActiveLink>
       </nav>
     </div>
