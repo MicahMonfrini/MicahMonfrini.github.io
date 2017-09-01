@@ -1,5 +1,7 @@
 import { withRouter } from 'next/router';
 
+// @TODO - Play with style variable and convert to styles from Header.css stylesheet
+
 const ActiveLink = ({ children, router, href }) => {
   const style = {
     marginRight: 10,
