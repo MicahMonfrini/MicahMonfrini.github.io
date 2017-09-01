@@ -1,4 +1,4 @@
-import { withRouter } from 'next/router'
+import { withRouter } from 'next/router';
 
 const ActiveLink = ({ children, router, href }) => {
   const style = {
@@ -18,4 +18,4 @@ const ActiveLink = ({ children, router, href }) => {
   )
 }
 
-export default withRouter(ActiveLink)
+export default withRouter(ActiveLink);

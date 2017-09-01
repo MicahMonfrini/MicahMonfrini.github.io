@@ -1,5 +1,5 @@
 import React from 'react';
-import Link from 'next/link';
+import ActiveLink from './ActiveLink.js';
 import Head from 'next/head';
 
 function Header() {
@@ -14,18 +14,18 @@ function Header() {
         <link rel="stylesheet" href="../static/css/font-awesome/css/font-awesome.min.css"/>
       </Head>
       <nav className="navbar">
-        <Link href="/">
+        <ActiveLink href="/">
           <a className="navButton">Home</a>
-        </Link>
-        <Link href="/about">
+        </ActiveLink>
+        <ActiveLink href="/about">
           <a className="navButton">About</a>
-        </Link>
-        <Link href="/projects">
+        </ActiveLink>
+        <ActiveLink href="/projects">
           <a className="navButton">Projects</a>
-        </Link>
-        <Link href="/contact">
+        </ActiveLink>
+        <ActiveLink href="/contact">
           <a className="navButton">Contact</a>
-        </Link>
+        </ActiveLink>
       </nav>
     </div>
   );
