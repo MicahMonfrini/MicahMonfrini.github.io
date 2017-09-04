@@ -15,7 +15,7 @@ function Header() {
       </Head>
       <nav className="navbar">
         <ActiveLink href="/">
-          Home
+          <span className="linkHover">Home</span>
         </ActiveLink>
         <ActiveLink href="/about">
           About
