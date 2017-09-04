@@ -6,16 +6,6 @@
   margin: 50px 0px;
 }
 
-.navButton {
-  text-decoration: none;
-  text-transform: uppercase;
-  font-size: 1.3em;
-  font-weight: 100;
-  margin: 15px;
-  padding-bottom: 5px;
-  position: relative;
-}
-
 .navButton:before {
   content: "";
   position: absolute;
