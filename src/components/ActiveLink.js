@@ -11,9 +11,8 @@ const ActiveLink = ({ children, router, href }) => {
     margin: 15,
     paddingBottom: 5,
     position: 'relative',
-    marginRight: 10,
     color: 'white',
-    borderBottom: router.pathname === href ? '1px solid #af0101' : 'none'
+    borderBottom: router.pathname === href ? '2px solid #af0101' : 'none'
   }
 
   const handleClick = (e) => {
