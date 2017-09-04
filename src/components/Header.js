@@ -18,13 +18,13 @@ function Header() {
           <span className="linkHover">Home</span>
         </ActiveLink>
         <ActiveLink href="/about">
-          About
+          <span className="linkHover">About</span>
         </ActiveLink>
         <ActiveLink href="/projects">
-          Projects
+          <span className="linkHover">Projects</span>
         </ActiveLink>
         <ActiveLink href="/contact">
-          Contact
+          <span className="linkHover">Contact</span>
         </ActiveLink>
       </nav>
     </div>
