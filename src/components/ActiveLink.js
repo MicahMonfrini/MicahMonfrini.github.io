@@ -9,7 +9,7 @@ const ActiveLink = ({ children, router, href }) => {
     fontSize: 20,
     fontWeight: 100,
     margin: 15,
-    paddingBottom: 5,
+    paddingBottom: 3,
     position: 'relative',
     color: 'white',
     borderBottom: router.pathname === href ? '2px solid #af0101' : 'none'
