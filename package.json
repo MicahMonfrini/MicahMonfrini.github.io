@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "engines": {
     "node": "7.9.0",
-    "npm": "2.1.x"
+    "npm": "4.2.0"
   },
   "main": "src/index.js",
   "repository": "https://github.com/MicahMonfrini/portfolio-site",
