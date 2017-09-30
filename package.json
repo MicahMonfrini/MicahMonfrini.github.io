@@ -1,6 +1,10 @@
 {
   "name": "mmonfrini-portfoliosite",
   "version": "1.0.0",
+  "engines": {
+    "node": "7.9.0",
+    "npm": "2.1.x"
+  },
   "main": "src/index.js",
   "repository": "https://github.com/MicahMonfrini/portfolio-site",
   "author": "Micah Monfrini <mmonfrini1020@gmail.com>",
